@@ -5,6 +5,7 @@ int main() {
   int n, reverse = 0, remainder;
 
   printf("Enter an number: ");
+    printf("Enter an number: ");
   scanf("%d", &n);
 
   while (n != 0) {
