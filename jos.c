@@ -7,6 +7,7 @@ int main() {
   printf("Enter an number: ");
     printf("Enter an number: ");
   scanf("%d", &n);
+   scanf("%d", &n);
 
   while (n != 0) {
     remainder = n % 10;
